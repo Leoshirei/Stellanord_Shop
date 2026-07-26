@@ -1,4 +1,14 @@
 body
 {
     background-color: lightseagreen;
+    margin: 0px;
+    padding: 0px;
+}
+.main_flex
+{
+    background-color:blue;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 20px;
 }
